@@ -1,3 +1,4 @@
 # github-demo
-My first git repository
+My first git repository.
+<br>
 My first project
